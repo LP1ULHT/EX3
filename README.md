@@ -15,6 +15,7 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 - O código deve compilar sem erros ou *warnings* utilizando o *gcc* com as seguintes flags:
 - `-g -Wvla -Wall -Wpedantic -Wextra -Wdeclaration-after-statement`
 - Tenha em atenção os nomes dados das variáveis, para que sejam indicadores daquilo que as mesmas vão conter.
+- Não se pode utilizar a biblioteca `math.h`
 - O trabalho deve ser desenvolvido e submetido de forma individual.
 
 Este exercício deverá ser submetido na plataforma Pandora até às 23:59 do dia 10/4/2022 e será contabilizado para a nota final da unidade curricular de acordo com os critérios disponibilizados na página da disciplina, concretamente nos slides da primeira aula.
