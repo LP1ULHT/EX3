@@ -1,4 +1,4 @@
-# wierdcalculator
+# Calculator
 Linguagens de Programação 1 - Exercício Prático #3
 
 ## Descrição do problema
