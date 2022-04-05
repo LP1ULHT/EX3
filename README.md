@@ -81,7 +81,8 @@ O resultado deverá apresentar sempre seis dígitos a seguir ao prefixo - dever�
 * opção `b`
    Esta opção recebe um número `n` do tipo `unsigned int` e em seguida escreve a sequência do jogo buzz. Nesta sequência os números acabados em 7 ou multiplos de 7 são substituidos pela palavra `buzz` enquanto que os restantes números são mostrados na consola. Um número por linha. Exemplo:
 
-```b 18
+```bash
+b 18
 1
 2
 3
