@@ -57,7 +57,7 @@ puts("+------------------------------------+");
    Estas opções recebem dois números do tipo `int`, denominados `a` e `b`. Consoante a opção escolhida o programa deverá realização a operação matemática correspondente. O resultado deverá ser impresso utilizando o seguinte formado `%d`. Nas operações de divisão, se o divisor for 0, o programa deverá imprimir o seguinte erro: `Error division by zero`. As divisões são inteiras.
 
 * opção `h`
-   Deverá ser lido um inteiro do tipo `short int` em base decimal e o resultado deverá ser apresentao em hexadecimal com o prefixo `0x` e com os dígitos hexadecimais em letras maiúsculas. O resultado deverá ocupar sempre 4 dígitos a seguir ao prefixo e para isso deverão, caso necessário, ser adicionados zeros à esquerda. Exemplo:
+   Deverá ser lido um inteiro do tipo `short int` em base decimal e o resultado deverá ser apresentado em hexadecimal com o prefixo `0x` e com os dígitos hexadecimais em letras maiúsculas. O resultado deverá ocupar sempre 4 dígitos a seguir ao prefixo e para isso deverão, caso necessário, ser adicionados zeros à esquerda. Exemplo:
 ```
 h 10
 0x000A
@@ -72,7 +72,7 @@ O resultado deverá apresentar sempre seis dígitos a seguir ao prefixo - dever�
    
 
 * opções `c`, `C`
-   Deverá ser lido um inteiro do tipo `unsigned short int` em base hexadecimal ou octal (dependendo da opção escolhida) e o resultado deverá ser apresentao em hexadecimal ou octal respeitando as indicações para apresentação do resultado das opções `h` e `o`, respectivamente.
+   Deverá ser lido um inteiro do tipo `unsigned short int` em base hexadecimal ou octal (dependendo da opção escolhida) e o resultado deverá ser apresentado em hexadecimal ou octal respeitando as indicações para apresentação do resultado das opções `h` e `o`, respectivamente.
 
 
 * opção `!`
