@@ -42,7 +42,7 @@ puts("+-Advanced --------------------------+");
 puts("|  ! <n>     - factorial of n        |");
 puts("|  b <n>     - plays buzz up to n    |");
 puts("+-Interface -------------------------+");
-puts("|  h         - print this menu       |");
+puts("|  s         - print this menu       |");
 puts("|  q         - end program           |");
 puts("+------------------------------------+");
 ```
